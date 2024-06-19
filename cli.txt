@@ -1,0 +1,16 @@
+clone repo
+git clone  https://github.com/srmono/citi_sonar.git
+
+
+Install maven
+
+https://phoenixnap.com/kb/install-maven-on-ubuntu
+
+
+
+Install jenkins
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-22-04
+
+
+
+
