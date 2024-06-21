@@ -14,3 +14,16 @@ https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubunt
 
 
 
+---
+
+Install node 
+
+sudo apt update
+
+sudo apt install nodejs
+
+node -v
+
+sudo apt install npm
+
+npm install snyk -g
